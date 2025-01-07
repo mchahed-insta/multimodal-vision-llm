@@ -1,1 +1,1 @@
-# multimodal-vision-llm
+# pytorch-paligemma
